@@ -1,4 +1,15 @@
-## Hi there 👋
+The Future of Finance at your convenience: AzoyaLabs is your one-stop for a smooth Defi, NFT & Gaming experience on Terra Blockchain.  
+
+On our github you will find:  
+- Website templates  
+- Smart contracts for Terra  
+- Utilities   
+- Press Releases  
+
+Our projects include:  
+- Main website https://AzoyaLabs.com  
+- Liquidation Dashboard for Anchor https://TerraDefi.AzoyaLabs.com  
+
 
 <!--
 
