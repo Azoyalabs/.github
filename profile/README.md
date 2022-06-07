@@ -1,15 +1,16 @@
-The Future of Finance at your convenience: AzoyaLabs is your one-stop for a smooth Defi, NFT & Gaming experience on Terra Blockchain.  
+The Future of Web3 at your convenience: AzoyaLabs is committed to creating quality products on Fetch to make Blockchain, DeFi and NFTs accessible for everyone.
 
 On our github you will find:  
 - Website templates  
-- Smart contracts for Terra  
+- Smart contracts for CosmWasm blockchains
 - Utilities   
 - Press Releases  
 
 Our projects include:  
 - Main website https://AzoyaLabs.com  
 - Liquidation Dashboard for Anchor https://TerraDefi.AzoyaLabs.com  
-
+- Hub for the Fetch blockchain https://fetchstation.azoyalabs.com/ 
+- Custom Smart Contracts
 
 <!--
 
